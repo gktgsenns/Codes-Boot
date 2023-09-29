@@ -1,7 +1,7 @@
 
 
 ;;;;;;;;;;;;;;;;;
-;   (C)  Northern OS;
+;   
 ;        (C) QuantumSYS;
 ;;;;;;;;;;;;;;;;;
 ORG 0x7C00
