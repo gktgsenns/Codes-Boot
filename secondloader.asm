@@ -2,10 +2,15 @@
 
 ;;;;;;;;;;;;;;;;;
 ;   
-;        (C) QuantumSYS;
+;        (C) CoreXenith;
+  ; WRITTEN BY A.GOKTUG
+;LAST EDIT
+;HEADER == BOOT , IDT ,  GDT
 ;;;;;;;;;;;;;;;;;
 ORG 0x7C00
 
+;ROUTINE DESCRIPTION :
+;MEM IDT
 SECTION .TEXT
 
     XOR AX, AX
